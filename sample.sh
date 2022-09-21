@@ -1,1 +1,1 @@
-echo "hello sample project"
+echo "hello rln"
